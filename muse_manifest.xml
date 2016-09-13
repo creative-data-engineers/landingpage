@@ -1,0 +1,87 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="creative-data-engineers.de" resolutions="1x" timestamp="1473746896206">
+  <folder name="css">
+    <file name="site_global.css" crc="4030435468"/>
+    <file name="impressum.css" crc="423725884" ref="impressum"/>
+    <file name="nomq_impressum.css" crc="149931737" ref="impressum"/>
+    <file name="index.css" crc="454870109" ref="index"/>
+    <file name="nomq_index.css" crc="4146456354" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo-creative-data-engineers.eps" crc="25595286" seo="true" mt="1472615550000"/>
+    <file name="clouds.mp4" crc="4098895206" seo="true" mt="1467538425000"/>
+    <file name="clouds.webm" crc="429645470" seo="true" mt="1472312599000"/>
+    <file name="clouds.ogv" crc="370854191" seo="true" mt="1472726267000"/>
+    <file name="clouds.jpg" crc="211628477" seo="true" mt="1472323946000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:impressum"/>
+    <file name="museutils.js" crc="3851988764" ref="index:impressum"/>
+    <file name="whatinput.js" crc="86476730" ref="index:impressum"/>
+    <file name="museconfig.js" crc="169177150" ref="index:impressum"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:impressum"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:impressum"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index:impressum"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u3144.php" crc="352688840" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:impressum"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index:impressum"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:impressum"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:impressum"/>
+    <file name="require.js" crc="4108833657" ref="index:impressum"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-creative-data-engineers-c.svg" crc="4108476321" seo="true" ref="index"/>
+    <file name="logo-creative-data-engineers-c_poster_.png" crc="3991396836" ref="index"/>
+    <file name="logo-creative-data-engineers-punkt.svg" crc="4221447324" seo="true" ref="index"/>
+    <file name="logo-creative-data-engineers-punkt_poster_.png" crc="4188670167" ref="index"/>
+    <file name="logo-creative-data-engineers-d.svg" crc="4274026472" seo="true" ref="index"/>
+    <file name="logo-creative-data-engineers-d_poster_.png" crc="127403100" ref="index"/>
+    <file name="logo-creative-data-engineers-schrift.svg" crc="4143136025" seo="true" ref="index"/>
+    <file name="logo-creative-data-engineers-schrift_poster_.png" crc="57668204" ref="index"/>
+    <file name="logo-creative-data-engineers-full-rand.svg" crc="40123508" ref="index:impressum"/>
+    <file name="logo-creative-data-engineers-full-rand_poster_u24959.png" crc="85099351" ref="index:impressum"/>
+    <file name="pfeil-thin.svg" crc="493949969" seo="true" ref="index"/>
+    <file name="pfeil-thin_poster_.png" crc="4259761180" ref="index"/>
+    <file name="cde-strategie2a.jpg" crc="461573580" ref="index"/>
+    <file name="cde-analyse-1a.jpg" crc="3845260360" ref="index"/>
+    <file name="cde-personalisierung1-a.jpg" crc="4270368096" ref="index"/>
+    <file name="cde-design-1.jpg" crc="1488346" ref="index"/>
+    <file name="cde-kontakt.jpg" crc="3895674258" ref="index"/>
+    <file name="u3155-17.png" crc="131291200" ref="index"/>
+    <file name="u3155-17-r.png" crc="216451530" ref="index"/>
+    <file name="u3155-17-m.png" crc="216451530" ref="index"/>
+    <file name="u3155-17-fs.png" crc="216451530" ref="index"/>
+    <file name="rocket-icon.svg" crc="4261822255" ref="index"/>
+    <file name="rocket-icon_poster_u7378.png" crc="3800908743" ref="index"/>
+    <file name="u3155-172.png" crc="3833279699" ref="index"/>
+    <file name="u3155-17-r2.png" crc="351996551" ref="index"/>
+    <file name="u3155-17-m2.png" crc="351996551" ref="index"/>
+    <file name="u3155-17-fs2.png" crc="351996551" ref="index"/>
+    <file name="hamburger-icon.svg" crc="444384991" ref="index:impressum"/>
+    <file name="hamburger-icon_poster_u37717.png" crc="413846547" ref="index:impressum"/>
+    <file name="close-icon.svg" crc="4171921115" ref="index:impressum"/>
+    <file name="close-icon_poster_u37725.png" crc="516968456" ref="index:impressum"/>
+    <file name="u3155-173.png" crc="3849598604" ref="index"/>
+    <file name="u3155-17-r3.png" crc="4185394186" ref="index"/>
+    <file name="u3155-17-m3.png" crc="4185394186" ref="index"/>
+    <file name="u3155-17-fs3.png" crc="4185394186" ref="index"/>
+    <file name="u3155-174.png" crc="3995683263" ref="index"/>
+    <file name="u3155-17-r4.png" crc="4186488227" ref="index"/>
+    <file name="u3155-17-m4.png" crc="4186488227" ref="index"/>
+    <file name="u3155-17-fs4.png" crc="4186488227" ref="index"/>
+    <file name="clouds-k.jpg" crc="4159079225" ref="index"/>
+    <file name="u3155-175.png" crc="213820907" ref="index"/>
+    <file name="u3155-17-r5.png" crc="3999811765" ref="index"/>
+    <file name="u3155-17-m5.png" crc="3999811765" ref="index"/>
+    <file name="u3155-17-fs5.png" crc="3999811765" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:impressum"/>
+    <file name="logo-creative-data-engineers-full-rand-k.svg" crc="4219604250" ref="impressum"/>
+    <file name="logo-creative-data-engineers-full-rand-k_poster_u41418.png" crc="3884162563" ref="impressum"/>
+  </folder>
+  <file name="index.html" crc="469437282" seo="true" mt="1473746139441" redirect="true"/>
+  <file name="impressum.html" crc="134767917" seo="true" mt="1473745448355" redirect="true"/>
+</manifest>
